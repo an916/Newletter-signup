@@ -1,0 +1,14 @@
+https://us7.admin.mailchimp.com/lists/members?id=542045#p:1-s:25-sa:last_update_time-so:false
+this above link is to check who has registered
+https://rocky-fjord-00305.herokuapp.com/
+this above link for accessing website
+
+procfile is file in which we tell our server what is name of our main js file
+
+for updating the app
+make the changes which u want to update
+servers should be running then write below command
+git add .
+git commit -m "any message u want to write"
+git push heroku master
+changes are now made
